@@ -26,7 +26,7 @@ git clone 'https://github.com/dncq/it3930E-project2.git'
 
 <img src="./setup/sqltools.jpg"/>
 
-- Thiết lập kết nối với cơ sở dữ liệu, thêm dữ liệu để chạy chương trình minh họa.
+- Thiết lập kết nối với cơ sở dữ liệu với các thông tin như trong hình, thêm dữ liệu để chạy chương trình minh họa bằng cách chạy file **insert_data.sql** trong thư mục **database**.
 
 <img src="./setup/dbconn.jpg"/>
 
