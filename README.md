@@ -1,4 +1,5 @@
 # Hướng dẫn cài đặt và sử dụng chương trình
+Toàn bộ mã nguồn được upload tại <a href="https://github.com/dncq/it3930E-project2/tree/main">https://github.com/dncq/it3930E-project2/tree/main</a><br>
 
 Dưới đây là yêu cầu về thiết bị và hướng dẫn chi tiết cách cài đặt và chạy mã nguồn
 
